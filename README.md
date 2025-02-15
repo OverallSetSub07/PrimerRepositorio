@@ -1,2 +1,2 @@
 # PrimerRepositorio
-No se usar esto 
+No sé usar esto 
